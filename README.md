@@ -16,7 +16,6 @@ A full-stack, data-dense financial fraud investigation platform engineered to in
 *   **Bulk CSV Ingestion:** Upload large batches of mocked financial transactions natively via the UI.
 *   **Algorithmic Anomaly Engine:** Transaction uploads pass through a simulated backend rule engine that flags statistically unlikely transfers (e.g., massive offshore wires, crypto exchanges) as anomalies.
 *   **Case Review Pipeline:** Analysts can click on any flagged transaction to view its details, review system warnings, input custom investigation notes, and explicitly mark the case strictly as a "Confirmed Fraud" or "Cleared" anomaly.
-*   **Morningstar Aesthetic:** The UI has been heavily customized specifically for high data density, featuring distinct color coding, zebra-striped data grids, and stark action boundaries (White & Red Corporate motif).
 
 ---
 
